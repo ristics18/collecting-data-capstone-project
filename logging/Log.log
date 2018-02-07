@@ -1,0 +1,12 @@
+2016-11-27 23:21:08,352 INFO [com.mycompany.collectingdata.ThreadTwitter] - DATE - 2016/11/27 23:21:08
+2016-11-27 23:21:08,428 INFO [com.mycompany.collectingdata.ThreadTwitter] - DATABASE - nba
+2016-11-27 23:21:08,599 INFO [com.mycompany.collectingdata.ThreadTwitter] - Full tags: #nbaseason,#nbapreseason,#nba
+2016-11-27 23:21:08,631 INFO [twitter4j.TwitterStreamImpl] - Establishing connection.
+2016-11-27 23:21:11,216 INFO [twitter4j.TwitterStreamImpl] - Connection established.
+2016-11-27 23:21:11,216 INFO [twitter4j.TwitterStreamImpl] - Receiving status stream.
+2016-11-28 17:46:28,462 INFO [com.mycompany.collectingdata.ThreadTwitter] - DATE - 2016/11/28 17:46:28
+2016-11-28 17:46:28,477 INFO [com.mycompany.collectingdata.ThreadTwitter] - DATABASE - nba
+2016-11-28 17:46:28,587 INFO [com.mycompany.collectingdata.ThreadTwitter] - Full tags: #nbaseason,#nbapreseason,#nba
+2016-11-28 17:46:28,618 INFO [twitter4j.TwitterStreamImpl] - Establishing connection.
+2016-11-28 17:46:36,029 INFO [twitter4j.TwitterStreamImpl] - Connection established.
+2016-11-28 17:46:36,029 INFO [twitter4j.TwitterStreamImpl] - Receiving status stream.
