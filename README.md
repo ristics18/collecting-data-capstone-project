@@ -1,2 +1,1 @@
-# collecting-data-capstone-project
-Twitter data collecting (using Twitter Streaming API)
+# Collecting Data from Twitter - Capstone Project
